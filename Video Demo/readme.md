@@ -1,4 +1,3 @@
 ### Video Demonstration
 
-[📽️Video Demo](https://github.com/Anudeep-CodeSpace/weather_based_wind_turbine_energy_output_prediction/raw/refs/heads/main/Video%20Demo/Demo.mp4)
-
+https://github.com/user-attachments/assets/2a161abb-f657-4cc0-a6cc-056da5815203
