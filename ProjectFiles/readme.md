@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/25391768/README.md)
 # <img width="312" height="63" alt="Screenshot 2026-02-18 191843" src="https://github.com/user-attachments/assets/a11aea4c-fc09-450c-b9d3-cefd26db3975" />
 
 
