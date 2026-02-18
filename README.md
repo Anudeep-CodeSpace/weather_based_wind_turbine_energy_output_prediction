@@ -16,6 +16,8 @@ This Repository has three Sections:
 The name of the project is "***WindCore***". It uses "Theoretical Power Curve" and "WindSpeed" to predict the Actual Energy output of a wind turbine.
 <center><a href="https://github.com/Anudeep-CodeSpace/weather_based_wind_turbine_energy_output_prediction/tree/main/ProjectFiles"><img width="936" height="189" alt="Screenshot 2026-02-18 191843" src="https://github.com/user-attachments/assets/de919aac-409e-4629-bf5f-9fcc678b7dd1" /></a></center>
 
+*Click the above image to visit the **ProjectFiles** section*
+
 ---
 
 ## Video Demo
