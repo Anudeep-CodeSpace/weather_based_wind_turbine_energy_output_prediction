@@ -1,0 +1,31 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Environment variables
+.env
+
+# HeatMap outputs
+*.png
+
+# Data Models
+*.pt
+*.pkl
+*.sav
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# DS Store files
+.DS_Store
+
+# Datasets
+data/
+.kaggle/
