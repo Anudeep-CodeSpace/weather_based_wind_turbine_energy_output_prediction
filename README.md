@@ -4,6 +4,27 @@ Project Submission for "**SmartBridge–APSCHE Long-Term Virtual Internship Prog
 
 ---
 
+## Team Details
+<table>
+  <tr>
+    <td><strong>Team ID</strong></td>
+    <td>LTVIP2026TMIDS80501</td>
+  </tr>
+  <tr>
+    <td><strong>Team Leader</strong></td>
+    <td>Anudeep Reddy Bandi</td>
+  </tr>
+  <tr>
+    <td rowspan="2"><strong>Team Members</strong></td>
+    <td>Giri Kumar Pandaram</td>
+  </tr>
+  <tr>
+    <td>Nagaraju Pasupula</td>
+  </tr>
+</table>
+
+---
+
 ## Sections
 This Repository has three Sections:
 1. __Documents__ -----------> Project Reports and other related documents
